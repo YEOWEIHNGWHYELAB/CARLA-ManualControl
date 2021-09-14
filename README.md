@@ -1,6 +1,8 @@
 # CARLA-ManualControl
 
-Thanks to all the contributers of CARLA Simulator, I really love the work you guys are doing!
+Thanks to all the contributers of CARLA Simulator, I really love the work you guys are doing! I would even go as far 
+as to say that this is a god-tier open source autonomous vehicle simulator. It even works quite well with Windows which
+is not ubiquitous as most of these open source AI projects are usually only compatible with Linux. 
 
 This is my modification of the manual_control.py for CARLA-Simulator. I really love the concept of CARLA-Simulator. 
 In this implementation, I want to make the manual_control.py much more appeasing to gamers like me so that more 
