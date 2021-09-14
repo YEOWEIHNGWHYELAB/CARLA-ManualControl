@@ -6,3 +6,5 @@ people will be using it. CARLA-Simulator need not just be for development of aut
 a game engine (it is based UNREAL engine with Python API after all...) for us to make games from it... We could make it so
 that gamers come and play around in the game while developers make AI cars to be trained in the environment through the 
 multiplayer setup... 
+
+![XBOX Control Mapping]()
