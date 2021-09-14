@@ -7,6 +7,10 @@ a game engine (it is based UNREAL engine with Python API after all...) for us to
 that gamers come and play around in the game while developers make AI cars to be trained in the environment through the 
 multiplayer setup... 
 
+I have eliminated the dead zone issue which causes steering drive... Also I made it such that user can choose if they want
+GTA 5 kind of steering, where the steering input varies with the speed of the vehicle. This is to avoid understeering situations
+when the car is moving too fast and the steering input is too much...
+
 ## Controller Mapping
 ![XBOX Control Mapping](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/XboxKey.png)
 
