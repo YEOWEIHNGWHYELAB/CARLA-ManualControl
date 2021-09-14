@@ -9,3 +9,6 @@ multiplayer setup...
 
 ## Controller Mapping
 ![XBOX Control Mapping](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/XboxKey.png)
+
+## Formula for Steering Input 
+![Steering INPUT Formula](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/FormulaForSteeringInput.png)
