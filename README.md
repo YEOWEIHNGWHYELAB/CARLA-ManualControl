@@ -13,6 +13,9 @@ I have eliminated the dead zone issue which causes steering drive... Also I made
 GTA 5 kind of steering, where the steering input varies with the speed of the vehicle. This is to avoid understeering situations
 when the car is moving too fast and the steering input is too much...
 
+The XBOX controller is IMO a lot better than WASD and it is actually quite fun. Try it yourself. But of course the only thing 
+missing in the game is objective. We could implement race... 
+
 ## Controller Mapping
 ![XBOX Control Mapping](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/XboxKey.png)
 
