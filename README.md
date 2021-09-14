@@ -7,4 +7,4 @@ a game engine (it is based UNREAL engine with Python API after all...) for us to
 that gamers come and play around in the game while developers make AI cars to be trained in the environment through the 
 multiplayer setup... 
 
-![XBOX Control Mapping]()
+![XBOX Control Mapping](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/XboxKey.png)
