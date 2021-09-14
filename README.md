@@ -1,5 +1,7 @@
 # CARLA-ManualControl
 
+Thanks to all the contributers of CARLA Simulator, I really love the work you guys are doing!
+
 This is my modification of the manual_control.py for CARLA-Simulator. I really love the concept of CARLA-Simulator. 
 In this implementation, I want to make the manual_control.py much more appeasing to gamers like me so that more 
 people will be using it. CARLA-Simulator need not just be for development of autonomous vehicles, it can also be used as
