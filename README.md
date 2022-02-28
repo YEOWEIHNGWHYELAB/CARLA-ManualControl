@@ -19,7 +19,7 @@ The XBOX controller is IMO a lot better than WASD and it is actually quite fun. 
 missing in the game is objective. We could implement race... 
 
 ## Controller Mapping
-![XBOX Control Mapping](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/XboxKey.png)
+![XBOX Control Mapping](/Images/XboxKey.png)
 
 ## Formula for Steering Input 
-![Steering INPUT Formula](https://github.com/YEOWEIHNGWHYELAB/CARLA-ManualControl/blob/main/Images/FormulaForSteeringInput.png)
+![Steering INPUT Formula](/Images/FormulaForSteeringInput.png)
